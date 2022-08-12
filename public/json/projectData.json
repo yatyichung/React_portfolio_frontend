@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Boozy Melt",
+        "url": "https://sunnychungyatyi.com/assignments/Boozy%20Melt/index.html",
+        "slug": "project-boozymelt",
+        "image": "https://sunnychungyatyi.com/assets/img/projects-boozymelt.jpg",
+        "content": "A fully responsive restaurant website that can be displayed and resized to fit any screen sizes, built using HTML, SASS, and Bootstrap.",
+        "type_id": 3,
+        "user_id": 2,
+        "created_at": "2022-08-09T20:29:13.000000Z",
+        "updated_at": "2022-08-09T21:13:37.000000Z",
+        "user": {
+            "id": 2,
+            "first": "Tressa",
+            "last": "Pfeffer",
+            "email": "qmedhurst@example.org",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:29:12.000000Z"
+        },
+        "type": {
+            "id": 3,
+            "title": "Aliquam illo et quasi debitis placeat.",
+            "created_at": "2022-08-09T20:29:13.000000Z",
+            "updated_at": "2022-08-09T20:29:13.000000Z"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Airport Database Management",
+        "url": "https://github.com/yatyichung/ADM_n01492932",
+        "slug": "project-airportdatabasemanagement",
+        "image": "https://sunnychungyatyi.com/assets/img/projects-airport.png",
+        "content": "A database management system that allows users (airport administrators) to Create, Read, Update, and Delete data on the flight schedule and passenger list. Built using C#, ASP.NET MVC, and MySQL.",
+        "type_id": 1,
+        "user_id": 2,
+        "created_at": "2022-08-09T20:29:13.000000Z",
+        "updated_at": "2022-08-09T21:12:47.000000Z",
+        "user": {
+            "id": 2,
+            "first": "Tressa",
+            "last": "Pfeffer",
+            "email": "qmedhurst@example.org",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:29:12.000000Z"
+        },
+        "type": {
+            "id": 1,
+            "title": "Ea dignissimos suscipit pariatur at dolor quia quam fuga.",
+            "created_at": "2022-08-09T20:29:13.000000Z",
+            "updated_at": "2022-08-09T20:29:13.000000Z"
+        }
+    },
+    {
+        "id": 3,
+        "title": "FollowBee",
+        "url": "https://github.com/yatyichung/FollowBee",
+        "slug": "project-followbee",
+        "image": "https://sunnychungyatyi.com/assets/img/projects-followbee.png",
+        "content": "This website is created using Node.js. It allows user to enter a city they want to visit travel, the website will then return a list of nearby hotels and attractions based on the location inputted. Built using Node.js, APIs, Express.js, Pug, jQuery, and Bootstrap.",
+        "type_id": 3,
+        "user_id": 1,
+        "created_at": "2022-08-09T20:29:13.000000Z",
+        "updated_at": "2022-08-09T21:14:27.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        },
+        "type": {
+            "id": 3,
+            "title": "Aliquam illo et quasi debitis placeat.",
+            "created_at": "2022-08-09T20:29:13.000000Z",
+            "updated_at": "2022-08-09T20:29:13.000000Z"
+        }
+    }
+]

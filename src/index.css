@@ -1,13 +1,87 @@
+/*
+*=====Table of Contet=====
+* 1. DEFAULT STYLING
+* 2. HEADER
+* 3. PROJECT
+* 4. SKILLS
+* 5. FOOTER
+*/
+
+/*1. DEFAULT STYLING*/
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Nunito:wght@300;400;500;600;700&display=swap');
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
+    color: grey;
+    font-family: 'Nunito', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1,
+h2 {
+    font-family: 'DynaPuff', cursive;
+}
+
+p {
+    font-size: 15px;
+}
+
+/*2. HEADER*/
+
+#header {
+    /*image reference: <a href='https://www.freepik.com/photos/effect'>Effect photo created by rawpixel.com - www.freepik.com</a>*/
+    background-image: url("../public/header-background.jpg");
+    background-size: cover;
+}
+
+#icon a,
+#icon a:visited,
+#icon a:hover,
+#icon a:active {
+    color: white;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+/*3. PROJECT*/
+.section-heading {
+    color: #c1bbdd;
+    width: fit-content;
+    font-weight: bold;
+}
+
+.project-img {
+    width: 100%;
+}
+
+.project-btn {
+    background-color: #DABFDE;
+    border: 1px solid #DABFDE;
+}
+
+.project-btn:hover {
+    background-color: #c1bbdd;
+    border: 1px solid #c1bbdd;
+}
+
+/*4. SKILLS*/
+.list-skills {
+    font-size: 18px;
+}
+
+.list-skills sup {
+    background-color: #DABFDE;
+    font-size: 10px;
+    border-radius: 15%;
+}
+
+.skill-row {
+    display: inline-block;
+}
+
+/*5. FOOTER*/
+
+#footer p {
+    font-size: 12px;
+
 }

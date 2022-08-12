@@ -1,0 +1,308 @@
+[
+    {
+        "id": 7,
+        "skill": "HTML",
+        "level": "5/5",
+        "slug": "skill-html",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:30:45.000000Z",
+        "updated_at": "2022-08-09T20:30:45.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 8,
+        "skill": "CSS",
+        "level": "5/5",
+        "slug": "skill-css",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:31:03.000000Z",
+        "updated_at": "2022-08-09T20:31:03.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 9,
+        "skill": "SASS",
+        "level": "5/5",
+        "slug": "skill-sass",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:31:21.000000Z",
+        "updated_at": "2022-08-09T20:31:21.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 10,
+        "skill": "Bootstrap",
+        "level": "5/5",
+        "slug": "skill-boostrap",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:31:51.000000Z",
+        "updated_at": "2022-08-09T20:31:51.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 11,
+        "skill": "JavaScript",
+        "level": "4/5",
+        "slug": "skill-javascript",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:35:20.000000Z",
+        "updated_at": "2022-08-09T20:35:20.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 12,
+        "skill": "Node.js",
+        "level": "4/5",
+        "slug": "skill-nodejs",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:35:31.000000Z",
+        "updated_at": "2022-08-09T20:35:31.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 13,
+        "skill": "jQuery",
+        "level": "4/5",
+        "slug": "skill-jquery",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:35:48.000000Z",
+        "updated_at": "2022-08-09T20:35:48.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 14,
+        "skill": "Express.js",
+        "level": "4/5",
+        "slug": "skill-express",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:42:50.000000Z",
+        "updated_at": "2022-08-09T20:42:50.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 15,
+        "skill": "npm",
+        "level": "4/5",
+        "slug": "skill-npm",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:43:05.000000Z",
+        "updated_at": "2022-08-09T20:43:05.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 16,
+        "skill": "pug",
+        "level": "4/5",
+        "slug": "skill-pug",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:44:04.000000Z",
+        "updated_at": "2022-08-09T20:44:04.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 17,
+        "skill": "React",
+        "level": "3/5",
+        "slug": "skill-react",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:44:22.000000Z",
+        "updated_at": "2022-08-09T20:44:22.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 18,
+        "skill": "PHP",
+        "level": "3/5",
+        "slug": "skill-php",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:44:36.000000Z",
+        "updated_at": "2022-08-09T20:44:36.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 19,
+        "skill": "Laravel",
+        "level": "3/5",
+        "slug": "skill-laravel",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:44:48.000000Z",
+        "updated_at": "2022-08-09T20:44:48.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 20,
+        "skill": "C#",
+        "level": "4/5",
+        "slug": "skill-csharp",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:48:20.000000Z",
+        "updated_at": "2022-08-09T20:48:20.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 21,
+        "skill": "ASP.NET",
+        "level": "4/5",
+        "slug": "skill-aspnet",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:48:34.000000Z",
+        "updated_at": "2022-08-09T20:48:34.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 22,
+        "skill": "MySQL",
+        "level": "4/5",
+        "slug": "skill-mysql",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:49:08.000000Z",
+        "updated_at": "2022-08-09T20:49:41.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    },
+    {
+        "id": 23,
+        "skill": "Git",
+        "level": "4/5",
+        "slug": "skill-git",
+        "user_id": 1,
+        "created_at": "2022-08-09T20:50:08.000000Z",
+        "updated_at": "2022-08-09T20:50:08.000000Z",
+        "user": {
+            "id": 1,
+            "first": "Sunny",
+            "last": "Chung",
+            "email": "n01492932@humbermail.ca",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:54:47.000000Z"
+        }
+    }
+]

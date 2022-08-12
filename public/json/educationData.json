@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "school": "University of Toronto",
+        "program": "Bachelor of Arts in Communcation, Culture, Information & Technology",
+        "slug": "education-uoft",
+        "start_date": "2017-09-04",
+        "end_date": "2022-06-07",
+        "user_id": 2,
+        "created_at": "2022-08-09T20:29:13.000000Z",
+        "updated_at": "2022-08-09T20:51:32.000000Z",
+        "user": {
+            "id": 2,
+            "first": "Tressa",
+            "last": "Pfeffer",
+            "email": "qmedhurst@example.org",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:29:12.000000Z"
+        }
+    },
+    {
+        "id": 2,
+        "school": "Sheridan College",
+        "program": "Certificate in Multimedia Designs",
+        "slug": "education-sheridancollege",
+        "start_date": "2017-09-04",
+        "end_date": "2022-06-07",
+        "user_id": 2,
+        "created_at": "2022-08-09T20:29:13.000000Z",
+        "updated_at": "2022-08-09T20:53:18.000000Z",
+        "user": {
+            "id": 2,
+            "first": "Tressa",
+            "last": "Pfeffer",
+            "email": "qmedhurst@example.org",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:29:12.000000Z"
+        }
+    },
+    {
+        "id": 3,
+        "school": "Humber College",
+        "program": "Ontario Graduate Certificate in Web Development",
+        "slug": "education-humbercollege",
+        "start_date": "2022-01-03",
+        "end_date": "2022-12-23",
+        "user_id": 2,
+        "created_at": "2022-08-09T20:29:13.000000Z",
+        "updated_at": "2022-08-09T20:54:14.000000Z",
+        "user": {
+            "id": 2,
+            "first": "Tressa",
+            "last": "Pfeffer",
+            "email": "qmedhurst@example.org",
+            "email_verified_at": "2022-08-09T20:29:12.000000Z",
+            "created_at": "2022-08-09T20:29:12.000000Z",
+            "updated_at": "2022-08-09T20:29:12.000000Z"
+        }
+    }
+]
